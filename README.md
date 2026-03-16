@@ -1,3 +1,37 @@
+React Quiz App
+
+A simple quiz application built with React and TypeScript.
+
+Features
+• Start quiz screen
+• Question progress bar
+• Correct / wrong answer highlighting
+• Result summary with score
+• Review answers screen
+• Randomized question order
+• Responsive design
+
+Tech Stack
+• React
+• TypeScript
+• CSS
+
+Future Improvements
+• API-based questions
+• Dark mode
+• Timer
+• Categories
+
+
+
+
+
+
+
+
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
