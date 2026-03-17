@@ -1,3 +1,13 @@
+Live Demo link: https://react-quiz-app-lemon-gamma.vercel.app/
+
+<img width="1343" height="808" alt="image" src="https://github.com/user-attachments/assets/efb054ee-4da6-44df-bfd7-bffbe695a8d1" />
+
+<img width="1031" height="790" alt="image" src="https://github.com/user-attachments/assets/1b521677-c788-4518-ab9d-e1475810d317" />
+
+<img width="892" height="814" alt="image" src="https://github.com/user-attachments/assets/42ce2cdc-67c8-41aa-8519-1d2a3ceeadbe" />
+
+<img width="1006" height="807" alt="image" src="https://github.com/user-attachments/assets/71dd98a2-9645-40d3-bf0f-80c3eeff263e" />
+
 React Quiz App
 
 A simple quiz application built with React and TypeScript.
@@ -21,16 +31,6 @@ Future Improvements
 • Dark mode
 • Timer
 • Categories
-
-
-
-
-
-
-
-
-
-
 
 # React + TypeScript + Vite
 
